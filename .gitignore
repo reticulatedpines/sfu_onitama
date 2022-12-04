@@ -1,0 +1,8 @@
+syntax: glob
+onitama
+*.o
+*.a
+*.exe
+*.orig
+*.pyc
+*.swp
